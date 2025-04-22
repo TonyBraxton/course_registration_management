@@ -1,3 +1,12 @@
+completed: 2025-01-22
+Uplaoded:2025-04-22
+
+Note: This project was my fullstack playground. Ther's certainly alot of error checking implemented because sometimes the html forms are not always doing what they ar suppose
+to. So i was fighting to provide different layers of error handling on backend as well. I love when it's userfriendly as i feel it could save the user time on their daily activity on your product and 
+save them from unecessary stress. If it could help you as a milestone for a related project fell free to clone and update to your liking.
+
+
+
 # Course Registration Management System
 
 A web-based course registration system built with **ASP.NET Core Razor Pages** and **MySQL**, designed to manage course, student, enrollment, and professor data. This project includes features for adding, editing, and deleting course records, complete with server-side validation and exception handling.
