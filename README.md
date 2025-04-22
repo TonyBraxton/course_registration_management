@@ -1,11 +1,3 @@
-completed: 2025-01-22
-Uplaoded:2025-04-22
-
-Note: This project was my fullstack playground. Ther's certainly alot of error checking implemented because sometimes the html forms are not always doing what they are suppose
-to. So i was fighting to provide different layers of error handling on backend as well. I love when it's userfriendly as i feel it could save the user time on their daily activity on your product and 
-save them from unecessary stress. If it could help you as a milestone for a related project fell free to clone and update to your liking.
-
-
 
 # Course Registration Management System
 
@@ -90,7 +82,12 @@ Custom error messages are shown for:
 
 Developer Notes:
 -The Razor Page model (coursesModel.cshtml.cs) handles form submission logic via OnPost() and renders data using OnGet().
+
 -IsString() is a custom utility to ensure that course names only contain letters.
+(Note: This project was my fullstack playground. Ther's certainly alot of error checking implemented because sometimes the html forms are not always doing what they are suppose
+to. So i was fighting to provide different layers of error handling on backend as well. I love when it's userfriendly as i feel it could save the user time on their daily activity on your product and 
+save them from unecessary stress. If it could help you as a milestone for a related project fell free to clone and update to your liking.)
+
 -Primary keys (like CourseID) are not allowed to be modified directly once created.
 
 File Overview:
