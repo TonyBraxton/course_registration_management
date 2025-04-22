@@ -1,10 +1,10 @@
-# 📚 Course Registration Management System
+# Course Registration Management System
 
 A web-based course registration system built with **ASP.NET Core Razor Pages** and **MySQL**, designed to manage course, student, enrollment, and professor data. This project includes features for adding, editing, and deleting course records, complete with server-side validation and exception handling.
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **ASP.NET Core Razor Pages**
 - **MySQL**
@@ -13,9 +13,9 @@ A web-based course registration system built with **ASP.NET Core Razor Pages** a
 
 ---
 
-## 🗃️ Database Structure
+## Database Structure
 
-### 🧱 Tables:
+### Tables:
 
 - `student`
 - `course`
@@ -23,12 +23,12 @@ A web-based course registration system built with **ASP.NET Core Razor Pages** a
 - `enrollment`
 - `__efmigrationshistory`
 
-### 🔑 Key Relationships:
+### Key Relationships:
 
 - `student` and `course` are connected via the `enrollment` table with composite keys and cascading deletes.
 - `course` includes a CHECK constraint ensuring `Credits > 0`.
 
-### 📦 Sample Data Included:
+### Sample Data Included:
 
 ```sql
 -- student
