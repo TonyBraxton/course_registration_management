@@ -22,7 +22,6 @@ A web-based course registration system built with **ASP.NET Core Razor Pages** a
 - `course`
 - `professor`
 - `enrollment`
-- `__efmigrationshistory`
 
 ### Key Relationships:
 
