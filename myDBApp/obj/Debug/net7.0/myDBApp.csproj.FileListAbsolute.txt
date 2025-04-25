@@ -1,0 +1,153 @@
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\appsettings.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\myDBApp.staticwebassets.runtime.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\myDBApp.staticwebassets.endpoints.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\myDBApp.exe
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\myDBApp.deps.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\myDBApp.runtimeconfig.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\myDBApp.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\myDBApp.pdb
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\comerr64.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\gssapi64.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\k5sprt64.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\krb5_64.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\krbcc64.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.csproj.AssemblyReference.cache
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.AssemblyInfoInputs.cache
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.AssemblyInfo.cs
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.RazorAssemblyInfo.cache
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.RazorAssemblyInfo.cs
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\scopedcss\bundle\myDBApp.styles.css
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\scopedcss\projectbundle\myDBApp.bundle.scp.css
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\staticwebassets\msbuild.myDBApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\staticwebassets\msbuild.myDBApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\staticwebassets\msbuild.build.myDBApp.props
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.myDBApp.props
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.myDBApp.props
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.csproj.Up2Date
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\refint\myDBApp.dll
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.pdb
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\myDBApp.genruntimeconfig.cache
+C:\Users\OWNER\Documents\Lakehead University\Make up courses\Make up courses (Fall 2024)\ESOF 2254\Lab9 Project(end of sem project)\myDBApp\obj\Debug\net7.0\ref\myDBApp.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\appsettings.json
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\myDBApp.staticwebassets.endpoints.json
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\myDBApp.staticwebassets.runtime.json
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\myDBApp.exe
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\myDBApp.deps.json
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\myDBApp.runtimeconfig.json
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\myDBApp.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\myDBApp.pdb
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\comerr64.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\gssapi64.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\k5sprt64.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\krb5_64.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\krbcc64.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.csproj.AssemblyReference.cache
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.AssemblyInfoInputs.cache
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.AssemblyInfo.cs
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.RazorAssemblyInfo.cache
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.RazorAssemblyInfo.cs
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.sourcelink.json
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\scopedcss\bundle\myDBApp.styles.css
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\scopedcss\projectbundle\myDBApp.bundle.scp.css
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\staticwebassets\msbuild.myDBApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\staticwebassets\msbuild.myDBApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\staticwebassets\msbuild.build.myDBApp.props
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.myDBApp.props
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.myDBApp.props
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.csproj.Up2Date
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\refint\myDBApp.dll
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.pdb
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\myDBApp.genruntimeconfig.cache
+C:\Users\OWNER\Documents\GitHub\course_registration_management\myDBApp\obj\Debug\net7.0\ref\myDBApp.dll

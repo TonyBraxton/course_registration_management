@@ -1,0 +1,33 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="~/css/styles/index/index.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="header_div">
+        <div>
+            <p class="header"> Welcome to the Course Registration</p>
+            <span class="indented_part"> Management System</span>
+        </div> 
+    </div>
+    <div class="menu">
+        <div>
+            <button class="col1_row1" onclick="location.href='@Url.Page("/students")'">Students</button>
+        </div>
+        <div>
+            <button class="col1_row2" onclick="location.href='@Url.Page("/professors")'">Professors</button>
+        </div>
+        <div>
+            <button class="col2_row1" onclick="location.href='@Url.Page("/courses")'">Courses</button>
+        </div>
+        <div>
+            <button class="col2_row2" onclick="location.href='@Url.Page("/enrollment")'">Enrollment</button>
+        </div>
+    </div>
+</body>
+</html>

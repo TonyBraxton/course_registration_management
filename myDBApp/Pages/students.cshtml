@@ -1,0 +1,119 @@
+﻿@page
+@using myDBApp.Models
+@model myDBApp.Pages.studentsModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Students";
+}
+@section styles {
+}
+<head>
+    <link rel="stylesheet" href="~/css/styles/students/students.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container_div">
+        <div class="header-div">
+            <h1 class="header">Student Roster List</h1>
+        </div>
+        <div class="form_div">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div id="addNotification" style="display: none;">@ViewData["addNotification"]</div>
+            <div id="deleteNotification" style="display: none;">@ViewData["deleteNotification"]</div>
+
+            <form id="addRowForm" method="post">
+                <input type="hidden" id="hiddenStudentId" name="ID">
+                <input type="number" id="studentId" name="newStudent.studentId" placeholder="Student ID" required>
+                <input type="text" id="col1" name="newStudent.studentName" placeholder="Student Name" required>
+                <input asp-for="newStudent.dateOfBirth" type="date" id="col2" class="form-control" placeholder="Date of Birth" required>
+                <input type="text" id="col3" name="newStudent.registered" placeholder="Registered(True or False)" required>
+                <input type="text" id="col4" name="newStudent.deptName" placeholder="Department" required>
+                <button type="submit" id="submitButton" name="action" value="add">Add a Student</button>
+            </form>
+        </div>
+        <div class="table_div">
+            <table id="studentsTable">
+                <thead>
+                    <tr>
+                        <th>Student ID</th>
+                        <th>Name</th>
+                        <th>Date of Birth</th>
+                        <th>Registered</th>
+                        <th>Department</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (MyStudent student in Model.StudentList)
+                    {
+                        <tr>
+                            <td>@student.studentId</td>
+                            <td>@student.studentName</td>
+                            <td>@student.dateOfBirth.ToString("yyyy-MM-dd")</td>
+                            <td>@student.registered</td>
+                            <td>@student.deptName</td>
+
+                            <td>
+                                <form method="post" style="display:inline-block;">
+                                    <input type="hidden" name="studentID" value="@student.studentId">
+                                    <input type="hidden" name="studentName" value="@student.studentName">
+                                    <input type="hidden" name="dateOfBirth" value="@student.dateOfBirth.ToString("yyyy-MM-dd")">
+                                    <input type="hidden" name="registered" value="@student.registered">
+                                    <input type="hidden" name="deptName" value="@student.deptName">
+                                    <button type="button" onclick="editRow(this, '@student.studentId', '@student.studentName', '@student.dateOfBirth', '@student.registered', '@student.deptName')">Edit</button>
+                                </form>
+                                <form id="deleteRowForm" method="post" style="display:inline-block;">
+                                    <input type="hidden" id="confirmDelete" name="confirmDelete" value="no">
+                                    <input type="hidden" name="studentId" value="@student.studentId">
+                                    <button type="submit" id="deleteButton" name="action" value="delete" onclick="deleteRow()">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        let isEditing = false;
+        let currentRow = null;
+        //let modification=false;
+
+        document.getElementById('addRowForm').addEventListener('submit', function(event) {
+            if (isEditing) {
+                document.getElementById('submitButton').value = 'edit';
+            } else {
+                document.getElementById('submitButton').value = 'add';
+            }
+        });
+
+        // Function to edit a row
+        function editRow(button, studentId, studentName, dateOfBirth, registered, deptName) {
+            const row = button.closest('tr');
+            document.getElementById('hiddenStudentId').value = studentId;
+            document.getElementById('studentId').value = studentId;
+            document.getElementById('col1').value = studentName;
+            document.getElementById('col2').value = dateOfBirth;
+            document.getElementById('col3').value = registered;
+            document.getElementById('col4').value = deptName;
+
+            isEditing = true;
+            currentRow = row;
+            document.getElementById('submitButton').innerText = 'Update Student';
+        }
+
+        // Function to delete a row
+        // function deleteRow() {
+        //     if (confirm("Are you sure you want to delete this student?")) {
+        //         document.getElementById('confirmDelete').value ='yes';
+        //     }
+        //     else
+        //     {
+        //         document.getElementById('confirmDelete').value = 'no';
+        //         const notificationMessage = document.getElementById('deleteNotification').textContent;
+        //         alert(notificationMessage);
+        //     }
+        // document.getElementById('deleteRowForm').submit();
+        //     }
+    </script>
+</body>

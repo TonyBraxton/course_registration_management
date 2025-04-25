@@ -1,0 +1,114 @@
+﻿@page
+@using myDBApp.Models
+@model myDBApp.Pages.coursesModel 
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Courses";
+    ViewData["deleteNotification"] = "Request Cancelled: The course was not deleted." ;
+}
+
+<head> @* //Try this project next time using controllers(razor MVC) instead of using .cshtml
+    //as controller *@
+    <link rel="stylesheet" href="~/css/styles/courses/courses.css" asp-append-version="true"/>
+</head>
+<body>
+    <div class="container_div">
+        <div class="header-div">
+            <h1 class="header">Course List</h1>
+        </div>
+        <div class="form_div">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div id="addNotification" style="display: none;">@ViewData["addNotification"]</div>
+            <div id="deleteNotification" style="display: none;">@ViewData["deleteNotification"]</div>
+
+            <form id="addRowForm" method="post">
+                  <input type="hidden" id="hiddenCourseId" name="ID">
+                <input type="number" id="courseId" name="newCourse.courseId" placeholder="Course ID">
+                <input type="text" id="col1" name="newCourse.courseName" placeholder="Course Name">
+                <input type="number" id="col2" name="newCourse.credits" placeholder="Credits(no decimal values)">
+                <button type="submit" id="submitButton" name="action" value="add" onclick="confirmAddCourse(eventAdd)">Add a Course</button>
+            </form>
+        </div>
+        <div class="table_div">
+            <table id="coursesTable">
+                <thead>
+                    <tr>
+                        <th>Course ID</th>
+                        <th>Course Name</th>
+                        <th>Credits</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (MyCourse course in Model.courseList)
+                    {
+                        <tr>
+                            <td>@course.courseId</td>
+                            <td>@course.courseName</td>
+                            <td>@course.credits</td>
+                            <td>
+                                <form method="post"style="display:inline-block;">
+                                    <input type="hidden" name="courseID" value="@course.courseId">
+                                    <input type="hidden" name="courseName" value="@course.courseName">
+                                    <input type="hidden" name="credits" value="@course.credits">
+                                    <button type="button" onclick="editRow(this, '@course.courseId', '@course.courseName', '@course.credits')">Edit</button>
+                                </form>
+                                <form id="deleteRowForm" method="post" style="display:inline-block;">
+                                    <input type="hidden" id="confirmDelete" name="hiddenDelete" value="no">
+                                     <input type="hidden" name="courseID" value="@course.courseId">
+                                    <button type="submit" id="deleteButton" name="action" value="delete" onclick="deleteRow()">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        let isEditing = false;
+        let currentRow = null;
+        //let modification=false;
+
+        document.getElementById('addRowForm').addEventListener('submit', function(event) {
+            if (isEditing) {
+                document.getElementById('submitButton').value = 'edit';
+            } else {
+                document.getElementById('submitButton').value = 'add';
+            }
+        });
+
+        // Function to edit a row
+        function editRow(button, courseId, courseName, credits) {
+            const row = button.closest('tr');
+            document.getElementById('hiddenCourseId').value = courseId;
+            document.getElementById('courseId').value = courseId;
+            document.getElementById('col1').value = courseName;
+            document.getElementById('col2').value = credits;
+            isEditing = true;
+            currentRow = row;
+            document.getElementById('submitButton').innerText = 'Update Course';
+        }
+
+        // Function to delete a row
+        // function deleteRow(/*eventDelete*/)
+        // {
+        //     eventDelete.preventDefault();
+        //     const deleteValid = confirm("Are you sure you want to delete this course?");
+        //     if (deleteValid)
+        //     {
+        //         document.getElementById('confirmDelete').value = "yes";
+        //         document.getElementById('deleteRowForm').submit();
+        //     }
+        //     else
+        //     {
+        //         document.getElementById('confirmDelete').value = "no";
+        //         const notificationMessage = document.getElementById('deleteNotification').textContent;
+        //         alert(notificationMessage);
+        //     }
+        // }   
+    </script>
+</body>
+@* Try this project next time using controllers(razor MVC) instead of using .cshtml
+    as controller *@

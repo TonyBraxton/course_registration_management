@@ -1,0 +1,55 @@
+﻿body {
+    background-color: antiquewhite;
+}
+.header_div {
+    display:grid;
+    grid-template-rows:1fr;
+    margin-left: 340px;
+}
+.header {
+    position: relative;
+    font-size: 40px;
+    font-weight: 600;
+    width:100%;
+}
+
+.indented_part {
+    display:block;
+    text-indent:13%;
+    font-size: 40px;
+    font-weight: 600;
+    width:100%;
+}
+
+.menu {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 400px;
+    column-gap: 40px;
+    row-gap:70px;
+    border-radius: 40px;
+    margin-top: 80px;
+    margin-left: 100px;
+    padding-left:55px;
+/*    background-color: blue;
+*/}
+button.col1_row1, button.col1_row2, button.col2_row1, button.col2_row2 {
+    display: block;
+    width: 80%;
+    height: 130px;
+    font-weight: bold;
+    font-size: 22px;
+    background-color: #d69759;
+    border-radius: 33px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+button:hover {
+    background-color: peru;
+}
+/*div is by default a block element*/
+/*if you want a div next to another div make both divs inline block*/

@@ -1,0 +1,80 @@
+﻿body {
+}
+.container_div {
+    display: inline-grid;
+    grid-template-columns: 1fr;
+    row-gap: 30px;
+/*    background-color: blue;
+*/}
+.header-div {
+    width: 100%;
+    background-color: green;
+    padding-left: 500px;
+}
+
+.header {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: purple;
+}
+
+.form_div {
+/*    background-color: red;
+*/    width: 100%;
+    padding-left: 300px;
+}
+#addRowForm {
+    width: 100%;
+    background-color: yellow;
+}
+.table_div {
+    background-color: red;
+    width: 100%;
+    padding-left: 300px;
+}
+
+table {
+    width: 83.9%;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Add some space between the table and the inputs */
+form {
+    width: 100%;
+}
+
+/* Scrollable table body with fixed header */
+tbody {
+    display:block;
+    /*    max-height: 400px;
+*/ overflow-y: auto;
+}
+
+thead, tbody, tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+
+tr {
+    background-color: darkkhaki;
+}
+
+/* Make sure the table headers stay on top */
+thead {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
