@@ -1,4 +1,4 @@
-Note: In Progress 2 pages(Professor and enrollment) still need refinement. to be completed by end of week.
+Note: In Progress. 2 pages(Professor and enrollment) still need refinement. to be completed by end of week.
 # Course Registration Management System
 
 A web-based course registration system built with **ASP.NET Core Razor Pages** and **MySQL**, designed to manage course, student, enrollment, and professor data. This project includes features for adding, editing, and deleting course records, complete with server-side validation and exception handling.
