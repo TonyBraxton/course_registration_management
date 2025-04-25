@@ -1,3 +1,4 @@
+Note: In Progress. 2 pages(Professor and enrollment) still need refinement. to be completed by end of week.
 # Course Registration Management System
 
 A web-based course registration system built with **ASP.NET Core Razor Pages** and **MySQL**, designed to manage course, student, enrollment, and professor data. This project includes features for adding, editing, and deleting course records, complete with server-side validation and exception handling.
@@ -21,7 +22,6 @@ A web-based course registration system built with **ASP.NET Core Razor Pages** a
 - `course`
 - `professor`
 - `enrollment`
-- `__efmigrationshistory`
 
 ### Key Relationships:
 
@@ -81,7 +81,14 @@ Custom error messages are shown for:
 
 Developer Notes:
 -The Razor Page model (coursesModel.cshtml.cs) handles form submission logic via OnPost() and renders data using OnGet().
+
 -IsString() is a custom utility to ensure that course names only contain letters.
+(Note: This project was my first razor page project and more of a fullstack playground. As a result there is a strong emphasis on error handling directed towards user's inputs.
+There's certainly alot of error checking implemented because sometimes the html forms are not always doing what they are suppose
+to. So i was fighting to provide different layers of error handling on backend as well. I love when it's userfriendly as i feel it could save the user time on their daily activity on your product and 
+save them from unecessary stress. If this could help you for a related project feel free to clone and update to your liking. it would obviously be advisable to put let focus on user input if you are dealing with
+a larger or more complex database or rather implement it with javascript directly in your .cshtml page)
+
 -Primary keys (like CourseID) are not allowed to be modified directly once created.
 
 File Overview:
