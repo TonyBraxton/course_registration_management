@@ -29,13 +29,8 @@ namespace myDBApp.Pages
 
         public IActionResult OnPost()//38 & 43
         {
-            string invaliddateOfBirth = "*Error:Invalid value entered for Credits. Credits column can only receive a number as input." + " ";
-            string invalidStudentId = "*Error:Invalid Student ID. Course ID column can only receive a number as input." + " ";
-            string invalidDateOfBirth = "*Error:Invalid date of birth. yyyy-mm-dd is the only acceptable format." + " ";
-            string invalidStudentName = "*Error:Student Name can only contain letters." + " ";
             string nonExistingStudent = $"*Error: non-existing course can not be updated.";
             string invalidRegistrationStatus = $"*Error: Registration Status can only contain 'True' or 'False'.";
-            string invalidDeptName = "*Error:Department Name can only contain letters.";
 
             // Action will either be add, edit or update based on the form data
             if (Request.Form["action"] == "edit")

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KdxlgXb9Gc6HvppWGJ4W9YKBuWReAI5rwJY3u+/7eGk=",
+  "Hash": "+zZ7rZN8YOygKy9HUVtl5BZRQgyYKaacCQHgdey7Plc=",
   "Source": "myDBApp",
   "BasePath": "_content/myDBApp",
   "Mode": "Default",
@@ -1354,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "o59ozlrn1w",
-      "Integrity": "XCuBvj6nOp0aaVmtwWzK+/6KtDqFcTDl1suppfAAwlI=",
+      "Fingerprint": "h85y0icbax",
+      "Integrity": "AVd3y5oMgAFlUvzNTu/pU5VkaoCCM8TN83DFNJ5IW/g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles\\courses\\courses.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ops7g1z3ua",
-      "Integrity": "5M6V/qRrq0qFWtVaLw9RLH5NLXxJXM9g4fQXlorD3QU=",
+      "Fingerprint": "ht8yivlgii",
+      "Integrity": "2yAWw5zSWADorJOw+14N5fAXOK475JTYUVA8qatDfS0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles\\enrollment\\enrollment.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "40img4pipu",
-      "Integrity": "XEvhoVaq/w7yOBtnoSAIeeJF2OtIZRk+bel6kAgEGeE=",
+      "Fingerprint": "7svqiqz3zi",
+      "Integrity": "Zw2qclP0WrchVw02I1F1hIbqanstkwStemfv8hpzcOw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles\\professors\\professors.css"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m8ykpukkzo",
-      "Integrity": "quSjrpAgqkWnkvHgalIJ7bJ6f2S5KZScShSmPT48d/c=",
+      "Fingerprint": "wi9uingvqk",
+      "Integrity": "uFkcEC77Al9xN3G5GsaATDy27eYJGPFaL6g1ZnCGT0Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles\\students\\students.css"
@@ -2778,7 +2778,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1262"
+          "Value": "1114"
         },
         {
           "Name": "Content-Type",
@@ -2786,11 +2786,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XCuBvj6nOp0aaVmtwWzK+/6KtDqFcTDl1suppfAAwlI=\""
+          "Value": "\"AVd3y5oMgAFlUvzNTu/pU5VkaoCCM8TN83DFNJ5IW/g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 02:17:14 GMT"
+          "Value": "Sun, 04 May 2025 19:07:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2800,12 +2800,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XCuBvj6nOp0aaVmtwWzK+/6KtDqFcTDl1suppfAAwlI="
+          "Value": "sha256-AVd3y5oMgAFlUvzNTu/pU5VkaoCCM8TN83DFNJ5IW/g="
         }
       ]
     },
     {
-      "Route": "css/styles/courses/courses.o59ozlrn1w.css",
+      "Route": "css/styles/courses/courses.h85y0icbax.css",
       "AssetFile": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\courses\\courses.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2815,7 +2815,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1262"
+          "Value": "1114"
         },
         {
           "Name": "Content-Type",
@@ -2823,11 +2823,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XCuBvj6nOp0aaVmtwWzK+/6KtDqFcTDl1suppfAAwlI=\""
+          "Value": "\"AVd3y5oMgAFlUvzNTu/pU5VkaoCCM8TN83DFNJ5IW/g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 02:17:14 GMT"
+          "Value": "Sun, 04 May 2025 19:07:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2837,7 +2837,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o59ozlrn1w"
+          "Value": "h85y0icbax"
         },
         {
           "Name": "label",
@@ -2845,7 +2845,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XCuBvj6nOp0aaVmtwWzK+/6KtDqFcTDl1suppfAAwlI="
+          "Value": "sha256-AVd3y5oMgAFlUvzNTu/pU5VkaoCCM8TN83DFNJ5IW/g="
         }
       ]
     },
@@ -2860,7 +2860,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1184"
+          "Value": "1038"
         },
         {
           "Name": "Content-Type",
@@ -2868,11 +2868,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5M6V/qRrq0qFWtVaLw9RLH5NLXxJXM9g4fQXlorD3QU=\""
+          "Value": "\"2yAWw5zSWADorJOw+14N5fAXOK475JTYUVA8qatDfS0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 31 Dec 2024 01:41:29 GMT"
+          "Value": "Sun, 04 May 2025 19:07:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2882,12 +2882,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5M6V/qRrq0qFWtVaLw9RLH5NLXxJXM9g4fQXlorD3QU="
+          "Value": "sha256-2yAWw5zSWADorJOw+14N5fAXOK475JTYUVA8qatDfS0="
         }
       ]
     },
     {
-      "Route": "css/styles/enrollment/enrollment.ops7g1z3ua.css",
+      "Route": "css/styles/enrollment/enrollment.ht8yivlgii.css",
       "AssetFile": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\enrollment\\enrollment.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2897,7 +2897,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1184"
+          "Value": "1038"
         },
         {
           "Name": "Content-Type",
@@ -2905,11 +2905,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5M6V/qRrq0qFWtVaLw9RLH5NLXxJXM9g4fQXlorD3QU=\""
+          "Value": "\"2yAWw5zSWADorJOw+14N5fAXOK475JTYUVA8qatDfS0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 31 Dec 2024 01:41:29 GMT"
+          "Value": "Sun, 04 May 2025 19:07:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2919,7 +2919,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ops7g1z3ua"
+          "Value": "ht8yivlgii"
         },
         {
           "Name": "label",
@@ -2927,7 +2927,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5M6V/qRrq0qFWtVaLw9RLH5NLXxJXM9g4fQXlorD3QU="
+          "Value": "sha256-2yAWw5zSWADorJOw+14N5fAXOK475JTYUVA8qatDfS0="
         }
       ]
     },
@@ -3014,7 +3014,7 @@
       ]
     },
     {
-      "Route": "css/styles/professors/professors.40img4pipu.css",
+      "Route": "css/styles/professors/professors.7svqiqz3zi.css",
       "AssetFile": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\professors\\professors.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3024,7 +3024,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1294"
+          "Value": "1123"
         },
         {
           "Name": "Content-Type",
@@ -3032,11 +3032,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XEvhoVaq/w7yOBtnoSAIeeJF2OtIZRk+bel6kAgEGeE=\""
+          "Value": "\"Zw2qclP0WrchVw02I1F1hIbqanstkwStemfv8hpzcOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 31 Dec 2024 00:42:25 GMT"
+          "Value": "Sun, 04 May 2025 19:07:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3046,7 +3046,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "40img4pipu"
+          "Value": "7svqiqz3zi"
         },
         {
           "Name": "label",
@@ -3054,7 +3054,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XEvhoVaq/w7yOBtnoSAIeeJF2OtIZRk+bel6kAgEGeE="
+          "Value": "sha256-Zw2qclP0WrchVw02I1F1hIbqanstkwStemfv8hpzcOw="
         }
       ]
     },
@@ -3069,7 +3069,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1294"
+          "Value": "1123"
         },
         {
           "Name": "Content-Type",
@@ -3077,11 +3077,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XEvhoVaq/w7yOBtnoSAIeeJF2OtIZRk+bel6kAgEGeE=\""
+          "Value": "\"Zw2qclP0WrchVw02I1F1hIbqanstkwStemfv8hpzcOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 31 Dec 2024 00:42:25 GMT"
+          "Value": "Sun, 04 May 2025 19:07:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3091,7 +3091,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XEvhoVaq/w7yOBtnoSAIeeJF2OtIZRk+bel6kAgEGeE="
+          "Value": "sha256-Zw2qclP0WrchVw02I1F1hIbqanstkwStemfv8hpzcOw="
         }
       ]
     },
@@ -3106,7 +3106,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1251"
+          "Value": "1111"
         },
         {
           "Name": "Content-Type",
@@ -3114,11 +3114,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"quSjrpAgqkWnkvHgalIJ7bJ6f2S5KZScShSmPT48d/c=\""
+          "Value": "\"uFkcEC77Al9xN3G5GsaATDy27eYJGPFaL6g1ZnCGT0Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 31 Dec 2024 00:17:16 GMT"
+          "Value": "Sun, 04 May 2025 19:06:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3128,12 +3128,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-quSjrpAgqkWnkvHgalIJ7bJ6f2S5KZScShSmPT48d/c="
+          "Value": "sha256-uFkcEC77Al9xN3G5GsaATDy27eYJGPFaL6g1ZnCGT0Y="
         }
       ]
     },
     {
-      "Route": "css/styles/students/students.m8ykpukkzo.css",
+      "Route": "css/styles/students/students.wi9uingvqk.css",
       "AssetFile": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\students\\students.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3143,7 +3143,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1251"
+          "Value": "1111"
         },
         {
           "Name": "Content-Type",
@@ -3151,11 +3151,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"quSjrpAgqkWnkvHgalIJ7bJ6f2S5KZScShSmPT48d/c=\""
+          "Value": "\"uFkcEC77Al9xN3G5GsaATDy27eYJGPFaL6g1ZnCGT0Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 31 Dec 2024 00:17:16 GMT"
+          "Value": "Sun, 04 May 2025 19:06:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3165,7 +3165,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m8ykpukkzo"
+          "Value": "wi9uingvqk"
         },
         {
           "Name": "label",
@@ -3173,7 +3173,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-quSjrpAgqkWnkvHgalIJ7bJ6f2S5KZScShSmPT48d/c="
+          "Value": "sha256-uFkcEC77Al9xN3G5GsaATDy27eYJGPFaL6g1ZnCGT0Y="
         }
       ]
     },

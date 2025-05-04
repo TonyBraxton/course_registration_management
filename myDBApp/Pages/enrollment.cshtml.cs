@@ -2,10 +2,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using myDBApp.Data;
 using myDBApp.Models;
+using System.Diagnostics.Eventing.Reader;
 
 namespace myDBApp.Pages
 {
-    public class enrollmentsModel : PageModel
+    public class enrollmentsModel: PageModel
     {
         private readonly ApplicationDbContext _context;
         public enrollmentsModel(ApplicationDbContext context)
@@ -29,54 +30,40 @@ namespace myDBApp.Pages
 
         public IActionResult OnPost()//38 & 43
         {
-            string invaliddateOfBirth = "*Error:Invalid value entered for Credits. Credits column can only receive a number as input." + " ";
-            string invalidStudentId = "*Error:Invalid Student ID. Course ID column can only receive a number as input." + " ";
-            string invalidDateOfBirth = "*Error:Invalid date of birth. yyyy-mm-dd is the only acceptable format." + " ";
-            string invalidStudentName = "*Error:Student Name can only contain letters." + " ";
-            string nonExistingEnrollment = $"*Error: non-existing course can not be updated.";
-            string invalidRegistrationStatus = $"*Error: Registration Status can only contain 'True' or 'False'.";
-            string invalidDeptName = "*Error:Department Name can only contain letters.";
 
             // Action will either be add, edit or update based on the form data
             if (Request.Form["action"] == "edit")
             {
-                var OriginalStudentId = Convert.ToInt32(Request.Form["ID"]);//keeps the original row id. Use it for exception handling
+                var OriginalStudentId = Convert.ToInt32(Request.Form["studentID"]);//keeps the original row id. Use it for exception handling
                                                                      //and see if it could update the courseId value
+                var OriginalCourseId = Convert.ToInt32(Request.Form["courseID"]);
 
-                MyStudent recent = new MyStudent();
+                //MyEnrollment recent = new MyEnrollment();
                 var studentId = newEnrollment.studentId; // Original courseID
                 var courseId = newEnrollment.courseId;
-                var course = _context.Course.Find(courseId);
-                var student = _context.Student.Find(studentId);
-                string existingStudent = $"*Error: The studentId '{studentId}' already exists in the table.";
+                var enrollment = _context.Enrollment.Find(studentId, courseId);
+                string existingEnrolllment = $"*Error: The enrollment '{studentId}', '{courseId}' already exists in the table.";
                 try
                 {
-                    if (student != null && course!=null)
+                    if (enrollment!=null)
                     {
                         enrollmentExists = true;
-                        var enrollmentId = studentId + courseId;
-                        var enrollment = _context.Enrollment.Find(enrollmentId);
 
-                        if (student.studentId == OriginalStudentId && course.courseId==origincalCourseId)
+                        if (enrollment.studentId != OriginalStudentId || enrollment.courseId != OriginalCourseId)
+                        {
+                            throw new Exception(existingEnrolllment);
+                        }
+                        else
                         {
                             enrollment.grade = newEnrollment.grade;//although coursename & Credits adapts to new value that newCourse.courseName
                                                                    //receives from the AddRow Form, courseId will not change here because it is set as primary key in MyCourse
                                                                    //unless you decide to set your model as .HasNoKey();
-                            _context.Student.Update(enrollment);
+                            _context.Enrollment.Update(enrollment);
                             _context.SaveChanges();
                             OnGet();
 
                             return RedirectToPage();
                         }
-                        else
-                        {
-                            
-                        }
-
-                    }
-                    else
-                    {
-                        throw new Exception(nonExistingEnrollment);
                     }
                 }
                 catch (Exception ex)
@@ -106,26 +93,27 @@ namespace myDBApp.Pages
             }
             else
             {
-                var targetId = newStudent.studentId;
-                var student = _context.Student.Find(targetId);
-                string existingStudent = $"*Error:A course with ID '{newStudent.studentId}' already exists in the table.";
+                var studentId = newEnrollment.studentId;
+                var courseId = newEnrollment.courseId;
+                var enrollment = _context.Enrollment.Find(studentId, courseId);
+                string ID = $"*Error: The student ID and course ID cannot be updated from the enrollment page.";
+
 
                 // Add a new course
                 try
                 {
                     if (ModelState.IsValid)
                     {
-                        if (student != null)
+                        if (enrollment != null)
                         {
-                            throw new Exception(existingStudent);
-                        }
-                        else
-                        {
-                            _context.Student.Add(newStudent);
+                            _context.Enrollment.Add(newEnrollment);
                             _context.SaveChanges();
                             OnGet();
                             return RedirectToPage();
-
+                        }
+                        else
+                        {
+                            throw new Exception(ID);
                         }
                     }
                 }

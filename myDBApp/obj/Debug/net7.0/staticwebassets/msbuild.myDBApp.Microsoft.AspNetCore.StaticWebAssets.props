@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>o59ozlrn1w</Fingerprint>
-      <Integrity>XCuBvj6nOp0aaVmtwWzK+/6KtDqFcTDl1suppfAAwlI=</Integrity>
+      <Fingerprint>h85y0icbax</Fingerprint>
+      <Integrity>AVd3y5oMgAFlUvzNTu/pU5VkaoCCM8TN83DFNJ5IW/g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles\courses\courses.css'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ops7g1z3ua</Fingerprint>
-      <Integrity>5M6V/qRrq0qFWtVaLw9RLH5NLXxJXM9g4fQXlorD3QU=</Integrity>
+      <Fingerprint>ht8yivlgii</Fingerprint>
+      <Integrity>2yAWw5zSWADorJOw+14N5fAXOK475JTYUVA8qatDfS0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles\enrollment\enrollment.css'))</OriginalItemSpec>
@@ -84,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>40img4pipu</Fingerprint>
-      <Integrity>XEvhoVaq/w7yOBtnoSAIeeJF2OtIZRk+bel6kAgEGeE=</Integrity>
+      <Fingerprint>7svqiqz3zi</Fingerprint>
+      <Integrity>Zw2qclP0WrchVw02I1F1hIbqanstkwStemfv8hpzcOw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles\professors\professors.css'))</OriginalItemSpec>
@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>m8ykpukkzo</Fingerprint>
-      <Integrity>quSjrpAgqkWnkvHgalIJ7bJ6f2S5KZScShSmPT48d/c=</Integrity>
+      <Fingerprint>wi9uingvqk</Fingerprint>
+      <Integrity>uFkcEC77Al9xN3G5GsaATDy27eYJGPFaL6g1ZnCGT0Y=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles\students\students.css'))</OriginalItemSpec>

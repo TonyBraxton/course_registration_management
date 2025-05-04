@@ -1,33 +1,28 @@
 ﻿body {
+    background-color: antiquewhite;
 }
 .container_div{
-    background-color:deepskyblue;
 }
 .header-div {
     width: 100%;
-    background-color: green;
     padding-left: 500px;
 }
 
 .header {
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
-    background-color: purple;
 }
 
 .form_div {
-    background-color: red;
     width: 100%;
     padding-left: 300px;
 }
 
 #addRowForm {
     width: 100%;
-    background-color: yellow;
 }
 
 .table_div {
-    background-color: red;
     width: 100%;
     padding-left: 300px;
 }

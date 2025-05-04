@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\pages\\enrollment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:pages\\enrollment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\wwwroot\\css\\styles\\professors\\professors.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:wwwroot\\css\\styles\\professors\\professors.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\wwwroot\\css\\styles\\courses\\courses.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:wwwroot\\css\\styles\\courses\\courses.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\wwwroot\\css\\styles\\students\\students.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:wwwroot\\css\\styles\\students\\students.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\wwwroot\\css\\styles\\index\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:wwwroot\\css\\styles\\index\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\wwwroot\\css\\styles\\enrollment\\enrollment.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:wwwroot\\css\\styles\\enrollment\\enrollment.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\models\\mycourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:models\\mycourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\pages\\professors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:pages\\professors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\pages\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:pages\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\pages\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:pages\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\pages\\courses.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,48 +51,32 @@
       "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:pages\\students.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\models\\myprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:models\\myprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\models\\myenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:models\\myenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\pages\\professors.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:pages\\professors.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\pages\\enrollment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:pages\\enrollment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\pages\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:pages\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\pages\\enrollment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:pages\\enrollment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\pages\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:pages\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\pages\\professors.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:pages\\professors.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\pages\\professors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:pages\\professors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\models\\myenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:models\\myenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\models\\mystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:models\\mystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\models\\mycourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:models\\mycourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\models\\myprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:models\\myprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -67,40 +87,8 @@
       "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\mydbapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:mydbapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\controllers\\professorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:controllers\\professorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\wwwroot\\css\\styles\\enrollment\\enrollment.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:wwwroot\\css\\styles\\enrollment\\enrollment.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\wwwroot\\css\\styles\\courses\\courses.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:wwwroot\\css\\styles\\courses\\courses.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\wwwroot\\css\\styles\\professors\\professors.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:wwwroot\\css\\styles\\professors\\professors.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\wwwroot\\css\\styles\\students\\students.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:wwwroot\\css\\styles\\students\\students.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|c:\\users\\owner\\documents\\github\\course_registration_management\\mydbapp\\wwwroot\\css\\styles\\index\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{969AEE82-111C-465B-9CD3-DF39A3570710}|myDBApp.csproj|solutionrelative:wwwroot\\css\\styles\\index\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,39 +106,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "enrollment.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\enrollment.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\enrollment.cshtml.cs",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\enrollment.cshtml.cs",
-              "RelativeToolTip": "Pages\\enrollment.cshtml.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T10:29:23.063Z",
+              "DocumentIndex": 4,
+              "Title": "enrollment.css",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\enrollment\\enrollment.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles\\enrollment\\enrollment.css",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\enrollment\\enrollment.css",
+              "RelativeToolTip": "wwwroot\\css\\styles\\enrollment\\enrollment.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-31T01:05:55.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MyEnrollment.cs",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyEnrollment.cs",
-              "RelativeDocumentMoniker": "Models\\MyEnrollment.cs",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyEnrollment.cs",
-              "RelativeToolTip": "Models\\MyEnrollment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "professors.css",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\professors\\professors.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles\\professors\\professors.css",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\professors\\professors.css",
+              "RelativeToolTip": "wwwroot\\css\\styles\\professors\\professors.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-31T00:26:05.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T10:27:44.772Z",
+              "WhenOpened": "2025-04-22T06:06:42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "courses.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\courses.cshtml",
+              "RelativeDocumentMoniker": "Pages\\courses.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\courses.cshtml",
+              "RelativeToolTip": "Pages\\courses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T18:53:33.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "students.css",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\students\\students.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles\\students\\students.css",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\students\\students.css",
+              "RelativeToolTip": "wwwroot\\css\\styles\\students\\students.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-25T20:22:20.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "courses.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\courses.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\courses.cshtml.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\courses.cshtml.cs",
+              "RelativeToolTip": "Pages\\courses.cshtml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAHkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T21:44:55.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "students.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\students.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\students.cshtml.cs",
               "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\students.cshtml.cs",
               "RelativeToolTip": "Pages\\students.cshtml.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T06:08:22.608Z",
               "EditorCaption": ""
@@ -158,6 +198,135 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\index\\index.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles\\index\\index.css",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\index\\index.css",
+              "RelativeToolTip": "wwwroot\\css\\styles\\index\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-24T03:50:03.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "courses.css",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\courses\\courses.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles\\courses\\courses.css",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\courses\\courses.css",
+              "RelativeToolTip": "wwwroot\\css\\styles\\courses\\courses.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-25T19:11:10.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyCourse.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyCourse.cs",
+              "RelativeDocumentMoniker": "Models\\MyCourse.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyCourse.cs",
+              "RelativeToolTip": "Models\\MyCourse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:25:35.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "professors.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\professors.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\professors.cshtml.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\professors.cshtml.cs",
+              "RelativeToolTip": "Pages\\professors.cshtml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:17:15.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "professors.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\professors.cshtml",
+              "RelativeDocumentMoniker": "Pages\\professors.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\professors.cshtml",
+              "RelativeToolTip": "Pages\\professors.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T00:23:48.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "students.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\students.cshtml",
+              "RelativeDocumentMoniker": "Pages\\students.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\students.cshtml",
+              "RelativeToolTip": "Pages\\students.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T04:16:52.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "enrollment.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\enrollment.cshtml",
+              "RelativeDocumentMoniker": "Pages\\enrollment.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\enrollment.cshtml",
+              "RelativeToolTip": "Pages\\enrollment.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T01:04:24.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "enrollment.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\enrollment.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\enrollment.cshtml.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\enrollment.cshtml.cs",
+              "RelativeToolTip": "Pages\\enrollment.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:29:23.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyEnrollment.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyEnrollment.cs",
+              "RelativeDocumentMoniker": "Models\\MyEnrollment.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyEnrollment.cs",
+              "RelativeToolTip": "Models\\MyEnrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:27:44.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyStudent.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyStudent.cs",
+              "RelativeDocumentMoniker": "Models\\MyStudent.cs",
+              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyStudent.cs",
+              "RelativeToolTip": "Models\\MyStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:18:21.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "MyProfessor.cs",
               "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyProfessor.cs",
               "RelativeDocumentMoniker": "Models\\MyProfessor.cs",
@@ -165,116 +334,11 @@
               "RelativeToolTip": "Models\\MyProfessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T16:38:44.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T16:38:44.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "enrollment.cshtml",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\enrollment.cshtml",
-              "RelativeDocumentMoniker": "Pages\\enrollment.cshtml",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\enrollment.cshtml",
-              "RelativeToolTip": "Pages\\enrollment.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADEAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T01:04:24.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "students.cshtml",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\students.cshtml",
-              "RelativeDocumentMoniker": "Pages\\students.cshtml",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\students.cshtml",
-              "RelativeToolTip": "Pages\\students.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T04:16:52.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "courses.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\courses.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\courses.cshtml.cs",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\courses.cshtml.cs",
-              "RelativeToolTip": "Pages\\courses.cshtml.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T21:44:55.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "courses.cshtml",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\courses.cshtml",
-              "RelativeDocumentMoniker": "Pages\\courses.cshtml",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\courses.cshtml",
-              "RelativeToolTip": "Pages\\courses.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T18:53:33.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "professors.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\professors.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\professors.cshtml.cs",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\professors.cshtml.cs",
-              "RelativeToolTip": "Pages\\professors.cshtml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAFoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T09:17:15.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T06:06:42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "professors.cshtml",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\professors.cshtml",
-              "RelativeDocumentMoniker": "Pages\\professors.cshtml",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Pages\\professors.cshtml",
-              "RelativeToolTip": "Pages\\professors.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T00:23:48.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MyStudent.cs",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyStudent.cs",
-              "RelativeDocumentMoniker": "Models\\MyStudent.cs",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyStudent.cs",
-              "RelativeToolTip": "Models\\MyStudent.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T04:18:21.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -282,24 +346,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAawBAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T03:06:04.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T03:06:04.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MyCourse.cs",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyCourse.cs",
-              "RelativeDocumentMoniker": "Models\\MyCourse.cs",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Models\\MyCourse.cs",
-              "RelativeToolTip": "Models\\MyCourse.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T02:25:35.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -311,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -323,19 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "studentsController.cs",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Controllers\\studentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\studentsController.cs",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Controllers\\studentsController.cs",
-              "RelativeToolTip": "Controllers\\studentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T05:42:32.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "myDBApp.csproj",
               "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\myDBApp.csproj",
               "RelativeDocumentMoniker": "myDBApp.csproj",
@@ -344,90 +383,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-01T04:36:33.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "enrollmentController.cs",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Controllers\\enrollmentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\enrollmentController.cs",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Controllers\\enrollmentController.cs",
-              "RelativeToolTip": "Controllers\\enrollmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T22:09:13.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "professorsController.cs",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Controllers\\professorsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\professorsController.cs",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\Controllers\\professorsController.cs",
-              "RelativeToolTip": "Controllers\\professorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T22:08:46.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "enrollment.css",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\enrollment\\enrollment.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\styles\\enrollment\\enrollment.css",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\enrollment\\enrollment.css",
-              "RelativeToolTip": "wwwroot\\css\\styles\\enrollment\\enrollment.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-31T01:05:55.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "courses.css",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\courses\\courses.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\styles\\courses\\courses.css",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\courses\\courses.css",
-              "RelativeToolTip": "wwwroot\\css\\styles\\courses\\courses.css",
-              "ViewState": "AgIAAAUAAAAAAAAAAIBJwAcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-25T19:11:10.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "professors.css",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\professors\\professors.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\styles\\professors\\professors.css",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\professors\\professors.css",
-              "RelativeToolTip": "wwwroot\\css\\styles\\professors\\professors.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-31T00:26:05.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "students.css",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\students\\students.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\styles\\students\\students.css",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\students\\students.css",
-              "RelativeToolTip": "wwwroot\\css\\styles\\students\\students.css",
-              "ViewState": "AgIAAAcAAAAAAAAAAIBpwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-25T20:22:20.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\index\\index.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\styles\\index\\index.css",
-              "ToolTip": "C:\\Users\\OWNER\\Documents\\GitHub\\course_registration_management\\myDBApp\\wwwroot\\css\\styles\\index\\index.css",
-              "RelativeToolTip": "wwwroot\\css\\styles\\index\\index.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-24T03:50:03.539Z"
             }
           ]
         }

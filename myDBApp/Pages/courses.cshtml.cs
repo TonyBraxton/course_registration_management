@@ -115,66 +115,21 @@ namespace myDBApp.Pages
                 // Add a new course
                 try
                 {
-                    //if not an int id and credits are automatically considered null. that's the issue.
+                    if (ModelState.IsValid)
+                    {
                         if (course != null)
                         {
                             throw new Exception(existingCourse);
                         }
                         else
                         {
-                            if (string.IsNullOrEmpty(newCourse.courseId.ToString()) || newCourse.courseId <= -1)
-                            {
-                                if(string.IsNullOrEmpty(newCourse.courseName) || !newCourse.IsString(newCourse.courseName))
-                                {
-                                    throw new Exception(invalidCourseId + invalidCourseName);
-                                }
-                                else if (string.IsNullOrEmpty(newCourse.credits.ToString()) || newCourse.credits <= -1)
-                                {
-                                    throw new Exception(invalidCourseId + invalidCredits);
-                                }
-                                else
-                                {
-                                    throw new Exception(invalidCourseId);
-                                }
-                            }
-                            else if (string.IsNullOrEmpty(newCourse.courseName) || !newCourse.IsString(newCourse.courseName))
-                            {
-                                if(string.IsNullOrEmpty(newCourse.courseId.ToString()) || newCourse.courseId <= -1)
-                                {
-                                    throw new Exception(invalidCourseName + invalidCourseId);
-                                }
-                                else if(string.IsNullOrEmpty(newCourse.credits.ToString()) || newCourse.credits <= -1)
-                                {
-                                    throw new Exception(invalidCourseName + invalidCredits);
-                                }
-                                else
-                                {
-                                    throw new Exception(invalidCourseName);
-                                }
-                            }
-                            else if (string.IsNullOrEmpty(newCourse.credits.ToString()) || newCourse.credits <= -1)
-                            {
-                                if (string.IsNullOrEmpty(newCourse.courseId.ToString()) || newCourse.courseId <= -1)
-                                {
-                                    throw new Exception(invalidCredits + invalidCourseId);
-                                }
-                                else if (string.IsNullOrEmpty(newCourse.courseName) || !newCourse.IsString(newCourse.courseName))
-                                {
-                                    throw new Exception(invalidCredits + invalidCourseName);
-                                }
-                                else
-                                {
-                                    throw new Exception(invalidCredits);
-                                }
-                            }
-                            else
-                            {
-                                _context.Course.Add(newCourse);
-                                _context.SaveChanges();
-                                OnGet();
-                                return RedirectToPage();
-                            }
+                            _context.Course.Add(newCourse);
+                            _context.SaveChanges();
+                            OnGet();
+                            return RedirectToPage();
+
                         }
+                    }
                 }
                 catch (Exception ex)
                 {

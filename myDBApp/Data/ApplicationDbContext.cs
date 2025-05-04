@@ -19,11 +19,14 @@ namespace myDBApp.Data
         public DbSet<MyProfessor> Professor { get; set; }
         public DbSet<MyEnrollment> Enrollment { get; set; }
 
-        /*protected override void OnModelCreating(ModelBuilder modelBuilder) //i this function yourself in situations where you want to build a keyless
+        protected override void OnModelCreating(ModelBuilder modelBuilder) //use this function yourself in situations where you want to build a keyless
                                                                            //model but if so, it won't be able to carry out actions like update or delete the
-                                                                           //data associated with that model using the Entity Framework Core (EF Core).
+                                                                           //data associated with that model using the Entity Framework Core (EF Core) or if you want to select a Key
+                                                                           //without using [Key] on top of the class attribute.
         {
-
-        }*/
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<MyEnrollment>()
+                .HasKey(e => new { e.studentId, e.courseId });
+        }
     }
 }

@@ -19,12 +19,10 @@ namespace myDBApp.Pages
 
 
         public List<MyProfessor> ProfessorList { get; set; } = new List<MyProfessor>();
-        //important:
-        //create a list of type courseID for exception handling in edit if statement
 
         public void OnGet()
         {
-            ProfessorList = _context.Professor.ToList();//Note:Course(with capital "C") is the name we assigned to DBSet
+            ProfessorList = _context.Professor.ToList();
         }
 
         public IActionResult OnPost()//38 & 43

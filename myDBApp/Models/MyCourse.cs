@@ -14,11 +14,6 @@ namespace myDBApp.Models
         public bool IsString(string input)
         {
 
-            /*if (string.IsNullOrEmpty(input))
-            {
-                throw new Exception("*Error:Course Name cannot be null or empty");
-                //return false; // Or true if null/empty strings should be considered valid
-            }*/
             foreach (char c in input)
             {
                 if (!char.IsLetter(c))
